@@ -419,7 +419,7 @@
     }
     
     .selection-box.active::after {
-      content: '?';
+      content: '✓';
       position: absolute;
       top: 50%;
       left: 50%;
@@ -558,7 +558,7 @@
     .door-sign {
       width: 100%;
       max-width: 750px;
-      height: 420px;
+      height: 375px;
       position: relative;
       border-radius: 15px;
       overflow: hidden;
